@@ -432,6 +432,120 @@ p{
 } 
 
 
+@media(max-width:945px){
+
+    .main1,.main2,.main3{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .input-1{
+        display: block;
+        width: 100%;
+    }
+
+
+    .mini-div{
+        width: 80%;
+        height: 50%;
+        
+    }
+
+    .first-ul{
+        padding-left: 0%;
+        
+        display: flex;
+         gap: 20px;
+         padding-top: 5px;
+        
+    }
+    .first-image{
+        width: 100px;
+        height: 100%;
+        
+    }
+    .Header{
+        padding: 50px 30px;
+        
+    }
+
+  
+
+    /* .container{
+        text-align: center;
+    } */
+    .input-1{
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .btn2{
+        margin-top: 20px;
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .mini-div{
+        align-content: center;
+        margin-left: 10px;
+
+    }
+
+    .linker{
+        margin-left: 60px;
+    }
+
+    .input-2{
+        margin-top: 20px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .btn3{
+        width: 100%;
+    }
+
+    .f-content{
+        flex-wrap: wrap;
+    }
+
+    .social2 a{
+    
+       margin: 10px;
+        font-size: 20px;
+        margin-top: 30px;
+        align-content: center;
+        
+    } 
+
+    .social2 ul{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+     .social{
+        margin-left:1px;
+    } 
+
+  
+    .header{
+        width: 100%;
+        gap: 20px;
+    }
+
+    .main4{
+        padding: 50px 60px;
+    }  
+
+    .main4 li{
+        margin-top: 15px;
+        margin-left:0 ;
+    }
+
+}
+
+
 
 
 
