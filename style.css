@@ -543,6 +543,14 @@ p{
         margin-left:0 ;
     }
 
+    .img1{
+        margin-top: 15px;
+        flex-flow: 1;
+    }
+   .main1{
+    flex-flow: column-reverse;
+   }
+
 }
 
 
