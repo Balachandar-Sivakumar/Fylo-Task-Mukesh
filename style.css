@@ -426,7 +426,13 @@ p{
         margin-top: 15px;
         margin-left:0 ;
     }
-   
+    .head2{
+        font-size: 24px;
+    }
+
+   .head3{
+    font-size: 25px;
+   }
 
 
 } 
